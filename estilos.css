@@ -26,3 +26,7 @@
   width: 95%;
   margin: 0 auto;
 }
+
+#page-edit-isu table td, #page-edit-isu table tr {
+  text-align: center;
+}
