@@ -1,3 +1,24 @@
-#page-edit-isu{
+#page-edit-isu {
   background-color: #F1F1F1;
+}
+
+#page-edit-isu h1,
+#page-edit-isu h2,
+#page-edit-isu h3,
+#page-edit-isu h4,
+#page-edit-isu h5,
+#page-edit-isu h6 {
+  font-family: Sans-serif !important;
+  font-size: 37px !important;
+  font-weight: 600 !important;
+  line-height: 1em !important;
+  color: #706F6F !important;
+  display: inline !important;
+  color: #706F6F;
+}
+
+#page-edit-isu p {
+  font-family: Sans-serif !important;
+  font-size: 17px !important;
+  color: #4D4D4D !important;
 }
