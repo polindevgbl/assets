@@ -14,11 +14,16 @@
   line-height: 1em !important;
   color: #706F6F !important;
   display: inline !important;
-  color: #706F6F;
 }
 
 #page-edit-isu p {
   font-family: Sans-serif !important;
   font-size: 17px !important;
   color: #4D4D4D !important;
+  font-weight: 600 !important;
+}
+
+#page-edit-isu table {
+  width: 95%;
+  margin: 0 auto;
 }
