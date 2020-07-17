@@ -13,10 +13,9 @@
   font-weight: 600 !important;
   line-height: 1em !important;
   color: #706F6F !important;
-  display: inline !important;
 }
 
-#page-edit-isu p {
+#page-edit-isu p, #page-edit-isu table, #page-edit-isu td, #page-edit-isu tr {
   font-family: Sans-serif !important;
   font-size: 17px !important;
   color: #4D4D4D !important;
