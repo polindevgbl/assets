@@ -1,5 +1,6 @@
 #page-edit-isu {
   background-color: #F1F1F1;
+  padding: 1.5em;
 }
 
 #page-edit-isu h1,
@@ -29,4 +30,9 @@
 
 #page-edit-isu table td, #page-edit-isu table tr {
   text-align: center;
+}
+
+#page-edit-isu table td img, #page-edit-isu table tr img {
+  width: 250px;
+  height: 250px;
 }
